@@ -7,6 +7,7 @@ To run the app:
 
 - using terminal navigate to the server folder
 - type npm install
+- type mongod
 - type npm run seeds
 - type npm run server:dev / Server should now be running
 - open a new terminal Window CMD + T
